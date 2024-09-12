@@ -11,3 +11,6 @@ sudo pacman -Sy gdb
 sudo pacman -Sy python3
 sudo pacman -Sy python3-pip
 sudo pacman -Sy python3-venv
+
+cp .bashrc ~/.bashrc
+cp gitconfig ~/gitconfig
