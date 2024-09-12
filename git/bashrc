@@ -36,3 +36,5 @@ function vi(){
 function mygrep(){
     grep -i"$@"
 }
+
+export PATH=$PATH:/bin
